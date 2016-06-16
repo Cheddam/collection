@@ -1,0 +1,19 @@
+{
+  "name": "collection",
+  "version": "0.0.1",
+  "description": "A simple manager for arrays of objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Cheddam/collection.git"
+  },
+  "author": "Garion Herman <cheddam@me.com> (https://garion.geek.nz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cheddam/collection/issues"
+  },
+  "homepage": "https://github.com/Cheddam/collection#readme"
+}
